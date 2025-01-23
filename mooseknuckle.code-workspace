@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../New folder"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mooseknuckle",
+    "liveServer.settings.port": 5501
+  }
+}
