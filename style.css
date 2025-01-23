@@ -41,7 +41,6 @@ a {
 
 a:hover {
   text-decoration: none; /* Underline on hover */
-  color: #0056b3; /* Darker blue when hovering */
 }
 #one {
   font-size: medium;
