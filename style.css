@@ -32,17 +32,17 @@ p {
   margin-bottom: 20px; /* Adds space below the paragraph */
   font-weight: bold;
 }
+button {
+  margin-bottom: 75px;
+}
 a {
+  margin-top: 50px;
   color: white;
   text-decoration: none; /* Removes underline from the link */
-  font-weight: bold; /* Makes the link text bold */
-  font-weight: normal;
+  font-weight: lighter;
+  font-size: medium;
 }
 
 a:hover {
   text-decoration: none; /* Underline on hover */
-}
-#one {
-  font-size: medium;
-  font-weight: normal;
 }
